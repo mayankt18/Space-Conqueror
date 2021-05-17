@@ -1,7 +1,7 @@
 # Space-conqueror
 _Made using Python_
 
-##Instructions to play
+## Instructions to play
 
 * Open terminal or command prompt and install pygame using "**_pip install pygame_**".
 * Clone the repository in your desired location.
